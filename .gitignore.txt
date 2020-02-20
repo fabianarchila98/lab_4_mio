@@ -1,2 +1,2 @@
-$ ignore algo
-/algo
+101_ObjectCategories/
+algo/
