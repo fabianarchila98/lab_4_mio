@@ -1,3 +1,10 @@
+#ignore all files in the build/ directory
 101_ObjectCategories/
-algo/
-__pycache__/
+Resultados/
+
+#ignore all .zip files
+*.npy
+*.pkl
+*.zip
+*.pyc
+*.tar.gz
